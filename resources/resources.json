@@ -65,7 +65,7 @@
         "access": 0
     },
     {
-        "path": "/api/products/all"
+        "path": "/api/products/all",
         "method": "GET",
         "access": 1
     }
