@@ -65,63 +65,8 @@
         "access": 0
     },
     {
-        "path": "/api/docs",
+        "path": "/api/products/all"
         "method": "GET",
-        "access": 0
-    },
-    {
-        "path": "/api/docs",
-        "method": "GET",
-        "access": 0
-    },
-    {
-        "path": "/api/catalog/products",
-        "method": "GET",
-        "access": 0
-    },
-    {
-        "path": "/api/catalog/products/{id}",
-        "method": "GET",
-        "access": 0
-    },
-    {
-        "path": "/api/catalog/products",
-        "method": "POST",
-        "access": 2
-    },
-    {
-        "path": "/api/catalog/products/{id}",
-        "method": "DELETE",
-        "access": 2
-    },
-    {
-        "path": "/api/order/cart/additem",
-        "method": "POST",
-        "access": 1
-    },
-    {
-        "path": "/api/order/cart/removeItem",
-        "method": "POST",
-        "access": 1
-    },
-    {
-        "path": "/api/order/cart/{id}",
-        "method": "GET",
-        "access": 1
-    },
-    {
-        "path": "/api/order/cart",
-        "method": "GET",
-        "access": 1
-    },
-    {
-        "path": "/api/order/admin/carts",
-        "method": "GET",
-        "access": 2
-    },
-    {
-        "path": "/api/order/cart/{id}/checkout",
-        "method": "POST",
         "access": 1
     }
 ]
